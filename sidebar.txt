@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pre:home|Door43 (pre)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pre|d43-pre repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pre/archive/master.zip|d43-pre.zip]]
+
+**Recent Changes**
+{{changes>ns = pre}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pre|Ethnologue data]]
+
